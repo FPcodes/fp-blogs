@@ -1,1 +1,1 @@
-# fp-blogs
+https://fpcodes.github.io/fp-blogs/
